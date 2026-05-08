@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I am Umer and I work with computers 👨‍💻
+
 <!--
 **mohammadoumar/mohammadoumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
