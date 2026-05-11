@@ -1,4 +1,10 @@
-## Hi 👋 I am Umer and I work with computers 👨‍💻
+## Hi 👋 
+
+I am Umer and I work with computers 👨‍💻
+
+## About Me
+
+## Skills and Tools
 
 <!--
 **mohammadoumar/mohammadoumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
