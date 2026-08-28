@@ -6,6 +6,16 @@ I am Umer and I work with computers 👨‍💻
 
 ## Skills and Tools
 
+- **AI/ML:** Python, PyTorch, Scikit-learn, Hugging Face Transformers, LLMs, NLP, Multimodal AI, Vision-Language Models (VLMs), Representation Learning.
+
+- **LLM Engineering:** LLaMA, LLaMA-Factory, Unsloth, PEFT/LoRA, QLoRA, Fine-tuning, Quantization, Model Merging, vLLM, Inference Optimization, Multilingual & Multi-Task Modeling.
+
+- **MLOps & Deployment:** FastAPI, Docker, MLflow, SLURM/HPC, GPU Computing, Model Serving, ML Pipelines, Experiment Tracking, Git, GitHub Actions.
+
+- **Model Analysis:** TransformerLens, Captum, Model Evaluation, Interpretability, Activation Analysis.
+
+- **Data & Scientific Computing:** NumPy, Pandas, SQL, Matplotlib.
+
 <!--
 **mohammadoumar/mohammadoumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
