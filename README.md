@@ -4,6 +4,8 @@ I am Umer and I work with computers 👨‍💻
 
 ## About Me
 
+I am a Post-Doctoral Researcher / Ingénieur de Recherche at La Rochelle Université specializing in Large Language Models (LLMs), NLP, and Multimodal AI. I hold a Ph.D. in Computer Science focused on NLP and transformer-based architectures, with over five years of experience developing, fine-tuning, evaluating, and deploying AI systems in Python and PyTorch. My expertise spans LLM fine-tuning and optimization, PEFT/LoRA, quantization, model merging, multilingual and multi-task learning, multimodal and vision-language models, and large-scale inference. I build end-to-end ML pipelines and production-oriented AI services using Hugging Face, Unsloth, LLaMA-Factory, vLLM, FastAPI, Docker, MLflow, and HPC/SLURM infrastructures.
+
 ## Skills and Tools
 
 - **AI/ML:** Python, PyTorch, Scikit-learn, Hugging Face Transformers, LLMs, NLP, Multimodal AI, Vision-Language Models (VLMs), Representation Learning.
