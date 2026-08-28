@@ -45,7 +45,6 @@ I build **production-oriented AI systems and ML pipelines** using technologies s
 
 **NumPy · Pandas · SQL · Matplotlib**
 
----
 
 ### 💡 Always learning. Always building. Always experimenting. 🚀
 
