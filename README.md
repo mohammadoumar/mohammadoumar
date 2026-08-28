@@ -1,22 +1,53 @@
-## Hi 👋 
+# Hi there! 👋
 
-I am Umer and I work with computers 👨‍💻
+I'm **Umer** — I work with computers, build AI systems, and explore the fascinating world of **Large Language Models**. 🤖💻
 
-## About Me
+## 🧑‍💻 About Me
 
-I am a Post-Doctoral Researcher / Ingénieur de Recherche specializing in Large Language Models (LLMs), NLP, and Multimodal AI. I hold a Ph.D. in Computer Science focused on NLP and transformer-based architectures, with over five years of experience developing, fine-tuning, evaluating, and deploying AI systems in Python and PyTorch. My expertise spans LLM fine-tuning and optimization, PEFT/LoRA, quantization, model merging, multilingual and multi-task learning, multimodal and vision-language models, and large-scale inference. I build end-to-end ML pipelines and production-oriented AI services using Hugging Face, Unsloth, LLaMA-Factory, vLLM, FastAPI, Docker, MLflow, and HPC/SLURM infrastructures.
+I am a **Post-Doctoral Researcher / Ingénieur de Recherche** specializing in **Large Language Models (LLMs), Natural Language Processing (NLP), and Multimodal AI**. 🧠
 
-## Skills and Tools
+I hold a **Ph.D. in Computer Science** focused on NLP and transformer-based architectures, with over **five years of experience** developing, fine-tuning, evaluating, and deploying AI systems using **Python** and **PyTorch**. 🔬
 
-- **AI/ML:** Python, PyTorch, Scikit-learn, Hugging Face Transformers, LLMs, NLP, Multimodal AI, Vision-Language Models (VLMs), Representation Learning.
+My expertise spans:
 
-- **LLM Engineering:** LLaMA, LLaMA-Factory, Unsloth, PEFT/LoRA, QLoRA, Fine-tuning, Quantization, Model Merging, vLLM, Inference Optimization, Multilingual & Multi-Task Modeling.
+- 🤖 **LLM fine-tuning & optimization**
+- 🎯 **PEFT / LoRA / QLoRA**
+- ⚡ **Quantization & inference optimization**
+- 🔀 **Model merging**
+- 🌍 **Multilingual & multi-task learning**
+- 👁️ **Multimodal & Vision-Language Models**
+- 🧩 **Representation learning**
+- 🚀 **Large-scale model inference**
+- 🏗️ **End-to-end ML pipelines & AI services**
+- 🖥️ **High-Performance Computing (HPC)**
 
-- **MLOps & Deployment:** FastAPI, Docker, MLflow, SLURM/HPC, GPU Computing, Model Serving, ML Pipelines, Experiment Tracking, Git, GitHub Actions.
+I build **production-oriented AI systems and ML pipelines** using technologies such as Hugging Face, Unsloth, LLaMA-Factory, vLLM, FastAPI, Docker, MLflow, and SLURM/HPC infrastructures. 🚀
 
-- **Model Analysis:** TransformerLens, Captum, Model Evaluation, Interpretability, Activation Analysis.
+## 🛠️ Skills & Tools
 
-- **Data & Scientific Computing:** NumPy, Pandas, SQL, Matplotlib.
+### 🤖 AI / Machine Learning
+
+**Python · PyTorch · Scikit-learn · Hugging Face Transformers · LLMs · NLP · Multimodal AI · Vision-Language Models (VLMs) · Representation Learning**
+
+### 🧠 LLM Engineering
+
+**LLaMA · LLaMA-Factory · Unsloth · PEFT/LoRA · QLoRA · Fine-tuning · Quantization · Model Merging · vLLM · Inference Optimization · Multilingual & Multi-Task Modeling**
+
+### 🚀 MLOps & Deployment
+
+**FastAPI · Docker · MLflow · SLURM/HPC · GPU Computing · Model Serving · ML Pipelines · Experiment Tracking · Git · GitHub Actions**
+
+### 🔬 Model Analysis & Interpretability
+
+**TransformerLens · Captum · Model Evaluation · Interpretability · Activation Analysis**
+
+### 📊 Data & Scientific Computing
+
+**NumPy · Pandas · SQL · Matplotlib**
+
+---
+
+### 💡 Always learning. Always building. Always experimenting. 🚀
 
 <!--
 **mohammadoumar/mohammadoumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
