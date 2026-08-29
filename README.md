@@ -1,6 +1,6 @@
-# Hi there! 👋
+# Hi! 👋
 
-I'm **Umer** — I work with computers, build AI systems, and explore the fascinating world of **Large Language Models**. 🤖💻
+I'm **Umer** — I work with computers, work with models and build AI systems. 🤖💻
 
 ## 🧑‍💻 About Me
 
