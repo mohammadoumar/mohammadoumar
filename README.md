@@ -16,7 +16,6 @@ My expertise spans:
 - 🔀 **Model merging**
 - 🌍 **Multilingual & multi-task learning**
 - 👁️ **Multimodal & Vision-Language Models**
-- 🧩 **Representation learning**
 - 🚀 **Large-scale model inference**
 - 🏗️ **End-to-end ML pipelines & AI services**
 - 🖥️ **High-Performance Computing (HPC)**
@@ -27,7 +26,7 @@ I build **production-oriented AI systems and ML pipelines** using technologies s
 
 ### 🤖 AI / Machine Learning
 
-**Python · PyTorch · Scikit-learn · Hugging Face Transformers · LLMs · NLP · Multimodal AI · Vision-Language Models (VLMs) · Representation Learning**
+Python · PyTorch · Scikit-learn · Hugging Face Transformers · LLMs · NLP · Multimodal AI · Vision-Language Models (VLMs)
 
 ### 🧠 LLM Engineering
 
