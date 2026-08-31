@@ -30,19 +30,19 @@ Python · PyTorch · Scikit-learn · Hugging Face Transformers · LLMs · NLP ·
 
 ### 🧠 LLM Engineering
 
-**LLaMA · LLaMA-Factory · Unsloth · PEFT/LoRA · QLoRA · Fine-tuning · Quantization · Model Merging · vLLM · Inference Optimization · Multilingual & Multi-Task Modeling**
+LLaMA · LLaMA-Factory · Unsloth · PEFT/LoRA · QLoRA · Fine-tuning · Quantization · Model Merging · vLLM · Inference Optimization · Multilingual & Multi-Task Modeling
 
 ### 🚀 MLOps & Deployment
 
-**FastAPI · Docker · MLflow · SLURM/HPC · GPU Computing · Model Serving · ML Pipelines · Experiment Tracking · Git · GitHub Actions**
+FastAPI · Docker · MLflow · SLURM/HPC · GPU Computing · Model Serving · ML Pipelines · Experiment Tracking · Git · GitHub Actions
 
 ### 🔬 Model Analysis & Interpretability
 
-**TransformerLens · Captum · Model Evaluation · Interpretability · Activation Analysis**
+TransformerLens · Captum · Model Evaluation · Interpretability · Activation Analysis
 
 ### 📊 Data & Scientific Computing
 
-**NumPy · Pandas · SQL · Matplotlib**
+NumPy · Pandas · SQL · Matplotlib
 
 
 ### 💡 Always learning. Always building. Always experimenting. 🚀
