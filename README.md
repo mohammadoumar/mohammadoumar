@@ -24,7 +24,7 @@ I build **AI systems and ML pipelines** using technologies such as Hugging Face,
 
 ### 🤖 AI / Machine Learning
 
-LLMs · NLP · Multimodal AI · VLMs · ```Python``` · ```PyTorch``` · Hugging Face ```transformers```
+LLMs · NLP · Multimodal AI · VLMs · Hugging Face · ```Python``` · ```PyTorch``` · ```transformers```
 
 ### 🧠 LLM Engineering
 
