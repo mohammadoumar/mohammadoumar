@@ -24,15 +24,15 @@ I build **AI systems and ML pipelines** using technologies such as Hugging Face,
 
 ### 🤖 AI / Machine Learning
 
-```Python``` · PyTorch · Scikit-learn · Hugging Face Transformers · LLMs · NLP · Multimodal AI · Vision-Language Models (VLMs)
+LLMs · NLP · Multimodal AI · VLMs · ```Python``` · ```PyTorch``` · Hugging Face ```transformers```
 
 ### 🧠 LLM Engineering
 
-LLaMA · LLaMA-Factory · Unsloth · PEFT/LoRA · QLoRA · Fine-tuning · Quantization · Model Merging · vLLM · Inference Optimization · Multilingual & Multi-Task Modeling
+```LLaMA-Factory``` · ```Unsloth``` · PEFT/LoRA · QLoRA · Fine-tuning · Quantization · Model Merging · vLLM · Inference Optimization · Multilingual & Multi-Task Modeling
 
 ### 🚀 MLOps & Deployment
 
-FastAPI · Docker · MLflow · SLURM/HPC · GPU Computing · Model Serving · ML Pipelines · Experiment Tracking · Git · GitHub Actions
+FastAPI · Docker · MLflow · SLURM/HPC · GPU Computing · Model Serving · ML Pipelines · Git · GitHub Actions
 
 ### 🔬 Model Analysis & Interpretability
 
@@ -40,7 +40,7 @@ TransformerLens · Captum · Model Evaluation · Interpretability · Activation 
 
 ### 📊 Data & Scientific Computing
 
-NumPy · Pandas · SQL · Matplotlib
+```NumPy``` · ```Pandas``` · ```SQL``` · ```Matplotlib``` · ```Scikit-learn```
 
 
 ### 💡 Always learning. Always building. Always experimenting. 🚀
