@@ -10,23 +10,21 @@ I hold a **Ph.D. in Computer Science** focused on NLP and transformer-based arch
 
 My expertise spans:
 
-- 🤖 **LLM fine-tuning & optimization**
-- 🎯 **PEFT / LoRA / QLoRA**
-- ⚡ **Quantization & inference optimization**
-- 🔀 **Model merging**
+- 🤖 **LLM fine-tuning, inference, merging & optimization**
+- 🎯 **PEFT / LoRA / QLoRA / Quantization**
 - 🌍 **Multilingual & multi-task learning**
 - 👁️ **Multimodal & Vision-Language Models**
 - 🚀 **Large-scale model inference**
 - 🏗️ **End-to-end ML pipelines & AI services**
 - 🖥️ **High-Performance Computing (HPC)**
 
-I build **production-oriented AI systems and ML pipelines** using technologies such as Hugging Face, Unsloth, LLaMA-Factory, vLLM, FastAPI, Docker, MLflow, and SLURM/HPC infrastructures. 🚀
+I build **AI systems and ML pipelines** using technologies such as Hugging Face, Unsloth, LLaMA-Factory, vLLM, FastAPI, Docker, MLflow, and SLURM/HPC infrastructures. 🚀
 
 ## 🛠️ Skills & Tools
 
 ### 🤖 AI / Machine Learning
 
-Python · PyTorch · Scikit-learn · Hugging Face Transformers · LLMs · NLP · Multimodal AI · Vision-Language Models (VLMs)
+```Python``` · PyTorch · Scikit-learn · Hugging Face Transformers · LLMs · NLP · Multimodal AI · Vision-Language Models (VLMs)
 
 ### 🧠 LLM Engineering
 
